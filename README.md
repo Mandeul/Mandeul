@@ -21,8 +21,7 @@
 
 
 ## 📱 앱 다운로드
-- 심사중
-<!--a href="https://apps.apple.com/app/id0000000000"> <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ko-kr?size=250x83" alt="App Store에서 다운로드" height="50"> </a-->
+<a href="https://apps.apple.com/us/app/%EA%B3%A0%EC%A0%95%EC%A7%80%EC%B6%9C%EB%8B%AC%EB%A0%A5/id6743121839"> <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ko-kr?size=250x83" alt="App Store에서 다운로드" height="50"> </a>
 ### 💡 이런 분들께 추천합니다
 - 매월 반복되는 고정지출을 한눈에 파악하고 싶으신 분
 - 월세, 공과금, 구독료 등 정기적인 지출 날짜를 놓치고 싶지 않은 분
